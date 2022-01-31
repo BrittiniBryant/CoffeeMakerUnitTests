@@ -1,7 +1,7 @@
 # CoffeeMakerUnitTests
 
 
-From the Program already created, I had to test it's proper functionality by creating JUnit tests
+From the Program already created, I had to test it's proper functionality by creating JUnit tests.
 
 This Folder can be tricky to navigate to get to my tests, but the path is:
 
